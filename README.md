@@ -1,6 +1,5 @@
-# CodSoft Internship Projects 🚀
+#Realworld-Data-Science Projects 🚀
 
-This repository contains all the tasks and projects completed during my internship at **CodSoft** under the **Data Science & Machine Learning** domain.
 
 ## 📌 Contents
 - Task 1: Credit Card Fraud Detection
